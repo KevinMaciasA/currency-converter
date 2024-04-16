@@ -9,7 +9,6 @@ abstract public class Env {
     Properties props = new Properties();
     try {
       FileInputStream input = new FileInputStream(".env");
-      System.out.println(input);
       props.load(input);
       input.close();
       return props.getProperty("EXCHANGE_API_KEY");
