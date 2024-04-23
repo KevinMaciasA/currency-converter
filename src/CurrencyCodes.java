@@ -2,7 +2,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
 public class CurrencyCodes {
-  public static String[] favs = { "USD", "EUR" };
+  public static String[] favs = { "USD", "EUR", "CAD", "CNY", "MXN" };
 
   public static String toString(String[] codes) {
     return IntStream
