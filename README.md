@@ -14,7 +14,7 @@ This Java Currency Converter is a CLI tool that provides currency conversion fun
 
 ## Getting Started
 
-Before everything, follow these steps to clone the repository.
+Before proceeding, follow these steps to clone the repository.
 
 1. Ensure you have Java Development Kit (JDK) installed on your system. You can download it from [here](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html).
 
@@ -57,9 +57,29 @@ To run the Java project first compile it and then run it using these commands:
    java Main
    ```
 
-## CLI
+# CLI
 
-TODO: Add image
+## Main Menu
+
+![Main Menu](https://i.postimg.cc/d3RqNx7V/currency-main-menu.png)
+
+---
+
+## Target Currency
+
+![Target Currency](https://i.postimg.cc/598Nt6PW/currency-select-menu.png)
+
+---
+
+## Exchange
+
+![Exchange](https://i.postimg.cc/ZRdYpR43/currency-amount-result.png)
+
+---
+
+## History Menu
+
+![History Menu](https://i.postimg.cc/j2YxXbS1/currency-history.png)
 
 ## Acknowledgments
 
