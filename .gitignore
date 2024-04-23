@@ -25,3 +25,6 @@ replay_pid*
 
 # Env files
 *.env
+
+# Except for .template.env
+!.template.env
